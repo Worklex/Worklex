@@ -20,7 +20,7 @@ gem 'texticle'
 #gem 'thin'
 
 group :production do
-  gem 'therubyracer-heroku', '0.8.1.pre3'   # uncomment before deployment
+  #gem 'therubyracer-heroku', '0.8.1.pre3'   # uncomment before deployment
 end
 
 group :development, :test do
