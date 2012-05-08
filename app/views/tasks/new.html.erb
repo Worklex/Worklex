@@ -1,0 +1,44 @@
+<% @title = "New Task" %>
+
+<%= form_for @task, :url => {:controller => 'tasks', :action => 'create'}, :html => { :multipart => true } do |form| %>
+
+  <div class="text_field">
+    <%= form.label :title, 'Title' %>
+    <%= form.text_field :title, :size => 51, :maxlength => 128,
+      :placeholder => "f. e. Join us to play in \"Monopoly\"!" %>
+  </div>
+
+  <div class="text_area">
+    <%= form.label :text, 'Text' %>
+    <%= form.text_area :text, :cols => 52, :rows => 3, :maxlength => 256,
+      :placeholder => "f. e. We are playing almost every Saturday. We need more players." %>
+  </div>
+
+<div class="maps">
+    <%= gmaps({
+    "map_options" => { "auto_zoom" => false, "zoom" => 3, "auto_adjust" => false},
+    "markers" => { "data" => @json }
+    }) %>
+</div>
+
+  <div class="submit_field">
+    <%= form.submit "Create", :disable_with => "Please wait..." %>
+  </div>
+
+<% end %>
+
+<% content_for :scripts do %>
+  <script type="text/javascript" charset="utf-8">
+    var marker = null;
+    Gmaps.map.callback = function()
+    {
+      google.maps.event.addListener(Gmaps.map.map, "click",
+      function(object)
+      {
+        if (marker != null) { marker.setMap(null); }
+        marker = new google.maps.Marker({position: object.latLng, map: Gmaps.map.map});
+      });
+    };
+  </script>
+<% end %>
+

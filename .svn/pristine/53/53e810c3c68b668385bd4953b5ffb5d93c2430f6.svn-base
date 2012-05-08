@@ -1,0 +1,24 @@
+<% @title = @task.title %>
+<p><%= @task.text %></p>
+<div class="maps_show">
+    <%= gmaps({
+    "map_options" => { "auto_zoom" => false, "zoom" => 3, "auto_adjust" => false},
+    "markers" => { "data" => @json }
+    }) %>
+</div>
+<%= button_to "Edit Task", edit_task_path(@task), :method => "get" %>
+<%= button_to "Delete", @task, :confirm => 'Are you sure?', :method => :delete %>
+<% content_for :scripts do %>
+  <script type="text/javascript" charset="utf-8">
+    var marker = null;
+    Gmaps.map.callback = function()
+    {
+      google.maps.event.addListener(Gmaps.map.map, "click",
+      function(object)
+      {
+        if (marker != null) { marker.setMap(null); }
+        marker = new google.maps.Marker({position: object.latLng, map: Gmaps.map.map});
+      });
+    };
+  </script>
+<% end %>

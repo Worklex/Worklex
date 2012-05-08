@@ -1,0 +1,13 @@
+<div class="text_field">
+  <%= form.label :email %>
+  <%= form.text_field :email, :size => 25 %>
+</div>
+<div class="text_field">
+  <%= form.label :handle %>
+  <%= form.text_field :handle, :size => 25 %>
+</div>
+<div class="password_field">
+  <%= form.label :password %>
+  <%= form.password_field :password, :size => 25 %>
+</div>
+<%= link_to "Already have an account?", sign_in_path %>

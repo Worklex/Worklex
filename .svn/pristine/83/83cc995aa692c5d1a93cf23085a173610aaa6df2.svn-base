@@ -1,0 +1,8 @@
+development:
+  host: localhost:3000
+
+test:
+  host: worklex.heroku.com
+
+production:
+  host: worklex.heroku.com

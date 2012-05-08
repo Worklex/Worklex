@@ -1,0 +1,13 @@
+en:
+  title: "Worklex.com"
+  subtitle: "favour for favour"
+  url: "http://worklex.com"
+  help_url: "http://worklex.com"
+  please_sign_up: "Access Denied. Please sign up for an account at http://worklex.com"
+  please_confirm: "Access Denied. Please confirm your Worklex.com account."
+  activerecord:
+    errors:
+      messages:
+        record_invalid: "%{errors}"
+
+  

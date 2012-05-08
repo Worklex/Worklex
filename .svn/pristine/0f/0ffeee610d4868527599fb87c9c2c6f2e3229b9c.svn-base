@@ -1,0 +1,2035 @@
+Compiled g.bar.js  (3ms)  (pid 10956)
+Compiled g.raphael.js  (4ms)  (pid 10956)
+Compiled jquery.color.js  (3ms)  (pid 10956)
+Compiled jquery.easing.1.3.js  (3ms)  (pid 10956)
+Compiled jquery-ui.min.js  (91ms)  (pid 10956)
+Compiled jquery.min.js  (22ms)  (pid 10956)
+Compiled application.js  (1ms)  (pid 10956)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 20:51:53 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (78.0ms)
+Completed 200 OK in 377ms (Views: 377.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled reset.css  (1ms)  (pid 692)
+Served asset /reset.css - 304 Not Modified (37ms)
+
+
+Started GET "/assets/960.css" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled 960.css  (8ms)  (pid 692)
+Served asset /960.css - 304 Not Modified (36ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled jquery.js  (33ms)  (pid 692)
+Served asset /jquery.js - 304 Not Modified (90ms)
+
+
+Started GET "/assets/screen.css" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled screen.css  (9ms)  (pid 692)
+Served asset /screen.css - 200 OK (39ms)
+
+
+Started GET "/assets/jquery.easing.1.3" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled jquery.easing.1.3  (3ms)  (pid 692)
+Served asset /jquery.easing.1.3 - 304 Not Modified (19ms)
+
+
+Started GET "/assets/jquery.color" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled jquery.color  (0ms)  (pid 692)
+Served asset /jquery.color - 304 Not Modified (15ms)
+
+
+Started GET "/assets/announcements.js" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled announcements.js  (0ms)  (pid 692)
+Served asset /announcements.js - 304 Not Modified (18ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled application.js  (0ms)  (pid 692)
+Served asset /application.js - 304 Not Modified (14ms)
+
+
+Started GET "/assets/rails.js" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Compiled rails.js  (2ms)  (pid 692)
+Served asset /rails.js - 304 Not Modified (35ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Served asset /worklex.png - 304 Not Modified (10ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 20:52:01 +0300
+Served asset /top.png - 304 Not Modified (10ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/960.css" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /960.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /reset.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /jquery.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/announcements.js" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /announcements.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /jquery.easing.1.3 - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.color" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /jquery.color - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.js" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /rails.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 20:52:03 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/960.css" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /960.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.color" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /jquery.color - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.easing.1.3" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /jquery.easing.1.3 - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /reset.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /application.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/announcements.js" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /announcements.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.js" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /rails.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 20:52:05 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 20:52:07 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered passwords/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 518ms (Views: 19.0ms | ActiveRecord: 432.0ms)
+
+
+Started GET "/assets/announcements.js" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /announcements.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.3" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /jquery.easing.1.3 - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/960.css" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /960.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.color" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /jquery.color - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reset.css" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rails.js" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /rails.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/notice.png" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /notice.png - 304 Not Modified (52ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 20:52:08 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 20:52:10 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (164.0ms)
+Completed 500 Internal Server Error in 2017ms
+
+ActionView::Template::Error (Missing host to link to! Please provide the :host parameter, set default_url_options[:host], or set :only_path to true):
+    2: 
+    3: Here's the link:
+    4: 
+    5: <%= edit_user_password_url(@user, :token => @user.confirmation_token.html_safe) %>
+    6: 
+    7: If you didn't request this, ignore this email. Don't worry. Your password hasn't been changed.
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (34.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 20:58:00 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (78.0ms)
+Completed 200 OK in 379ms (Views: 378.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/screen.css" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /screen.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.js" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /jquery.js - 304 Not Modified (34ms)
+
+
+Started GET "/assets/reset.css" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /reset.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /application.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.easing.1.3" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /jquery.easing.1.3 - 304 Not Modified (6ms)
+
+
+Started GET "/assets/announcements.js" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /announcements.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.color" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /jquery.color - 304 Not Modified (3ms)
+
+
+Started GET "/assets/960.css" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /960.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/rails.js" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /rails.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /worklex.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 20:58:08 +0300
+Served asset /top.png - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:02:27 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (124.0ms)
+Completed 200 OK in 24430ms (Views: 24430.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/screen-da79009af3037e7e1217767b890dda13.css" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /screen-da79009af3037e7e1217767b890dda13.css - 200 OK (1ms)
+
+
+Started GET "/assets/960-290bcda9ea428c0c66c49b53f105a2e1.css" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /960-290bcda9ea428c0c66c49b53f105a2e1.css - 200 OK (1ms)
+
+
+Started GET "/assets/reset-0652303eb7e19a0bb182c952fff701e2.css" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /reset-0652303eb7e19a0bb182c952fff701e2.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery-d3f164fee02a6f543b33d43f71b5966a.color" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /jquery-d3f164fee02a6f543b33d43f71b5966a.color - 200 OK (0ms)
+
+
+Started GET "/assets/jquery-747ca1b0114b3a3382c1914e9aaeca6d.js" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /jquery-747ca1b0114b3a3382c1914e9aaeca6d.js - 200 OK (1ms)
+
+
+Started GET "/assets/announcements-e384893a3c76871bf45e4537faf0105c.js" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /announcements-e384893a3c76871bf45e4537faf0105c.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:03:02 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (5ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/assets/rails-e5940ff9df4cfe26a4c32629c70a4442.js" for 127.0.0.1 at 2011-10-10 21:03:03 +0300
+Served asset /rails-e5940ff9df4cfe26a4c32629c70a4442.js - 200 OK (1ms)
+
+
+Started GET "/assets/application-a8852536c41311b8cfb4d227df9f9845.js" for 127.0.0.1 at 2011-10-10 21:03:03 +0300
+Served asset /application-a8852536c41311b8cfb4d227df9f9845.js - 200 OK (676ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:03:03 +0300
+Served asset /worklex.png - 200 OK (2ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:03:04 +0300
+Served asset /top.png - 200 OK (14ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:03:51 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 24ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:03:51 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:03:52 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:03:52 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:03:53 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered passwords/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 167ms (Views: 19.0ms | ActiveRecord: 81.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:03:54 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/notice.png" for 127.0.0.1 at 2011-10-10 21:03:54 +0300
+Served asset /notice.png - 200 OK (3ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:03:55 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 45ms (Views: 20.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:03:56 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:04:01 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1456ms)
+Completed 500 Internal Server Error in 3291ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (217.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:12:17 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:12:18 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1016ms)
+Completed 500 Internal Server Error in 1129ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (17.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:13:46 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (78.0ms)
+Completed 200 OK in 379ms (Views: 379.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:13:56 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (13ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:13:56 +0300
+Served asset /worklex.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:13:57 +0300
+Served asset /top.png - 304 Not Modified (2ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:15:41 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:15:41 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:15:41 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:15:41 +0300
+Served asset /worklex.png - 304 Not Modified (1ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:15:42 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:15:42 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:15:42 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:15:42 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:15:45 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (187.0ms)
+Completed 500 Internal Server Error in 1759ms
+
+ActionView::Template::Error (Missing host to link to! Please provide the :host parameter, set default_url_options[:host], or set :only_path to true):
+    2: 
+    3: Here's the link:
+    4: 
+    5: <%= edit_user_password_url(@user, :token => @user.confirmation_token.html_safe) %>
+    6: 
+    7: If you didn't request this, ignore this email. Don't worry. Your password hasn't been changed.
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (11.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:16:56 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (76.0ms)
+Completed 200 OK in 378ms (Views: 378.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:17:08 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:17:08 +0300
+Served asset /top.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:17:08 +0300
+Served asset /worklex.png - 304 Not Modified (2ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:17:24 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:17:25 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:17:25 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:17:25 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:17:26 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:17:26 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:17:26 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:17:26 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:17:28 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1394ms)
+Completed 500 Internal Server Error in 3115ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (204.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:18:49 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (95.0ms)
+Completed 200 OK in 472ms (Views: 472.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:19:02 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (20ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:19:02 +0300
+Served asset /top.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:19:02 +0300
+Served asset /worklex.png - 304 Not Modified (2ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:19:03 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:19:03 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:19:03 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:19:03 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:19:04 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:19:04 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:19:04 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:19:04 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:19:06 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1386ms)
+Completed 500 Internal Server Error in 3127ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (189.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:25:40 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (80.0ms)
+Completed 200 OK in 385ms (Views: 385.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:25:51 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (14ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (28.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:25:52 +0300
+Served asset /top.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:25:52 +0300
+Served asset /worklex.png - 304 Not Modified (2ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:26:04 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 32ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:26:04 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:26:04 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:26:04 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:26:05 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:26:05 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:26:05 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:26:05 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:26:07 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1399ms)
+Completed 500 Internal Server Error in 3291ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (194.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:27:22 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (82.0ms)
+Completed 200 OK in 411ms (Views: 411.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:27:34 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:27:34 +0300
+Served asset /top.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:27:34 +0300
+Served asset /worklex.png - 304 Not Modified (1ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:27:58 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:27:58 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:27:58 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:27:58 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:27:59 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:27:59 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:27:59 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:27:59 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:28:01 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1390ms)
+Completed 500 Internal Server Error in 3207ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (198.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:28:15 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (1012ms)
+Completed 500 Internal Server Error in 1163ms
+
+Errno::ENETUNREACH (Сделана попытка выполнить операцию на сокете при отключенной сети. - connect(2)):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.0ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:30:32 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:30:32 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:30:32 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:30:32 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started POST "/session" for 127.0.0.1 at 2011-10-10 21:30:34 +0300
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "session"=>{"who"=>"ohavryl", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+Completed 500 Internal Server Error in 300ms
+
+NameError (undefined local variable or method `flash_success_after_create' for #<SessionsController:0x5149620>):
+  app/controllers/sessions_controller.rb:13:in `create'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.0ms)
+
+
+Started POST "/session" for 127.0.0.1 at 2011-10-10 21:34:10 +0300
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "session"=>{"who"=>"ohavryl", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 78ms
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:34:10 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 65ms (Views: 55.0ms | ActiveRecord: 9.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:34:10 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (35.0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:34:10 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:34:10 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/success.png" for 127.0.0.1 at 2011-10-10 21:34:11 +0300
+Served asset /success.png - 200 OK (17ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:34:58 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 102ms (Views: 62.0ms | ActiveRecord: 40.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:34:58 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/assets/worklex.png" for 127.0.0.1 at 2011-10-10 21:34:58 +0300
+Served asset /worklex.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top.png" for 127.0.0.1 at 2011-10-10 21:34:58 +0300
+Served asset /top.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-10 21:56:04 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (85.0ms)
+Compiled reset.css  (3ms)  (pid 9512)
+Compiled 960.css  (8ms)  (pid 9512)
+Compiled screen.css  (16ms)  (pid 9512)
+Compiled ie7.css  (1ms)  (pid 9512)
+Compiled jquery.js  (38ms)  (pid 9512)
+Compiled jquery.easing.1.3  (2ms)  (pid 9512)
+Compiled jquery.color  (0ms)  (pid 9512)
+Compiled announcements.js  (0ms)  (pid 9512)
+Compiled rails.js  (1ms)  (pid 9512)
+Completed 200 OK in 25392ms (Views: 25392.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/screen-99fabf9220e45deff6ccfe70fdde0624.css" for 127.0.0.1 at 2011-10-10 21:56:40 +0300
+Served asset /screen-99fabf9220e45deff6ccfe70fdde0624.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:56:40 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/top-eb9d0498ca3359240fcf192d54df0a6c.png" for 127.0.0.1 at 2011-10-10 21:56:40 +0300
+Served asset /top-eb9d0498ca3359240fcf192d54df0a6c.png - 200 OK (9ms)
+
+
+Started GET "/assets/worklex-888783e5981d01114755bb9c29df8819.png" for 127.0.0.1 at 2011-10-10 21:56:40 +0300
+Served asset /worklex-888783e5981d01114755bb9c29df8819.png - 200 OK (17ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-10 21:56:43 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:56:43 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-10 21:56:45 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:56:45 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-10 21:56:48 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (1.0ms)
+
+Sent mail to ohavryl@gmail.com (2938ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/passwords/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 4029ms (Views: 40.0ms | ActiveRecord: 107.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 21:56:53 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/users/1/password/edit?token=[FILTERED]" for 127.0.0.1 at 2011-10-10 22:03:34 +0300
+  Processing by PasswordsController#edit as HTML
+  Parameters: {"token"=>"[FILTERED]", "user_id"=>"1"}
+Rendered passwords/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 161ms (Views: 87.0ms | ActiveRecord: 22.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-10 22:03:35 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/notice-0d6a49d951961e70f121c73431b605d9.png" for 127.0.0.1 at 2011-10-10 22:03:35 +0300
+Served asset /notice-0d6a49d951961e70f121c73431b605d9.png - 200 OK (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-11 19:05:05 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:05:05 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-11 19:05:08 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:05:08 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/session" for 127.0.0.1 at 2011-10-11 19:05:13 +0300
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "session"=>{"who"=>"ohavryl", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 138ms
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-11 19:05:13 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 71ms (Views: 64.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:05:13 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/success-a4fa438703831d36934291879611de89.png" for 127.0.0.1 at 2011-10-11 19:05:13 +0300
+Served asset /success-a4fa438703831d36934291879611de89.png - 200 OK (43ms)
+
+
+Started GET "/profiles/1" for 127.0.0.1 at 2011-10-11 19:05:14 +0300
+  Processing by ProfilesController#show as HTML
+  Parameters: {"id"=>"1"}
+Rendered profiles/show.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 104ms (Views: 20.0ms | ActiveRecord: 9.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:05:14 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/edit-18a12c182a0dcba28477ffe723a64b5b.png" for 127.0.0.1 at 2011-10-11 19:05:14 +0300
+Served asset /edit-18a12c182a0dcba28477ffe723a64b5b.png - 200 OK (11ms)
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:05:16 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 126ms (Views: 58.0ms | ActiveRecord: 23.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:05:16 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-11 19:05:39 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 61ms (Views: 55.0ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:05:39 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:05:50 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com1"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 506ms
+
+NameError (uninitialized constant User::Mailer):
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:13:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:05:51 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:08:23 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com1"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 121ms
+
+NameError (uninitialized constant User::Mailer):
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:13:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:08:23 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:09:38 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com1"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 226ms
+
+ActionView::MissingTemplate (Missing template profiles/update, application/update with {:handlers=>[:erb, :builder], :formats=>[:html], :locale=>[:en, :en]}. Searched in:
+  * "D:/Project/Source/Worklex/app/views"
+  * "C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views"
+):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (1.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:09:39 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:10:02 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com1"}, "commit"=>"Update"}
+Rendered profiles/edit.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 64ms (Views: 33.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:10:02 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:10:03 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com"}, "commit"=>"Update"}
+Rendered profiles/edit.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 61ms (Views: 32.0ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:10:03 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:10:40 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com"}, "commit"=>"Update"}
+Redirected to http://localhost:3000/profile/edit
+Completed 302 Found in 47ms
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:10:41 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 62ms (Views: 33.0ms | ActiveRecord: 9.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:10:41 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:10:45 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com"}, "commit"=>"Update"}
+Redirected to http://localhost:3000/profile/edit
+Completed 302 Found in 48ms
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:10:45 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 122ms (Views: 34.0ms | ActiveRecord: 33.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:10:45 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:10:47 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com1"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 58ms
+
+NameError (uninitialized constant User::Mailer):
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:13:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:10:48 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:26:06 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 122ms (Views: 45.0ms | ActiveRecord: 10.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:26:10 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com4"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 110ms
+
+NameError (uninitialized constant User::Mailer):
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:13:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:26:10 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:28:47 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"ohavryl@gmail.com"}, "commit"=>"Update"}
+Redirected to http://localhost:3000/profile/edit
+Completed 302 Found in 50ms
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:28:47 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 91ms (Views: 33.0ms | ActiveRecord: 38.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:28:47 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/profiles/1" for 127.0.0.1 at 2011-10-11 19:28:56 +0300
+  Processing by ProfilesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 34ms
+
+NameError (uninitialized constant ProfilesController::Notifier):
+  app/controllers/profiles_controller.rb:9:in `show'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:28:56 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/profiles/1" for 127.0.0.1 at 2011-10-11 19:29:27 +0300
+  Processing by ProfilesController#show as HTML
+  Parameters: {"id"=>"1"}
+Rendered profiles/show.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 61ms (Views: 32.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:29:27 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:29:28 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 93ms (Views: 33.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:29:28 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/passwords/new" for 127.0.0.1 at 2011-10-11 19:29:34 +0300
+  Processing by PasswordsController#new as HTML
+Rendered passwords/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 93ms (Views: 85.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:29:34 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-11 19:29:36 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered passwords/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 66ms (Views: 34.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:29:37 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (4ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/passwords" for 127.0.0.1 at 2011-10-11 19:29:42 +0300
+  Processing by PasswordsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "password"=>"[FILTERED]", "commit"=>"Reset password"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/clearance_mailer/change_password.html.erb (0.0ms)
+
+Sent mail to ohavryl@gmail.com (2619ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/clearance-0.12.0/app/views/passwords/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2759ms (Views: 29.0ms | ActiveRecord: 12.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:29:45 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/profiles/1" for 127.0.0.1 at 2011-10-11 19:30:23 +0300
+  Processing by ProfilesController#show as HTML
+  Parameters: {"id"=>"1"}
+Rendered profiles/show.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 63ms (Views: 32.0ms | ActiveRecord: 10.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:30:24 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:30:25 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 60ms (Views: 32.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:30:25 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:30:38 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"olegpolo@mail.ru"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 110ms
+
+NameError (uninitialized constant Mailer::HOST):
+  app/models/mailer.rb:2:in `<class:Mailer>'
+  app/models/mailer.rb:1:in `<top (required)>'
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:12:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:30:38 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-11 19:33:09 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 115ms (Views: 82.0ms | ActiveRecord: 33.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:33:10 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/profiles/1" for 127.0.0.1 at 2011-10-11 19:33:11 +0300
+  Processing by ProfilesController#show as HTML
+  Parameters: {"id"=>"1"}
+Rendered profiles/show.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 64ms (Views: 34.0ms | ActiveRecord: 6.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:33:11 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:33:12 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 62ms (Views: 33.0ms | ActiveRecord: 7.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:33:12 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:33:16 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"olegpolo@mail.ru"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 110ms
+
+NoMethodError (undefined method `default_url_options' for nil:NilClass):
+  app/models/mailer.rb:2:in `<class:Mailer>'
+  app/models/mailer.rb:1:in `<top (required)>'
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:12:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:33:17 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:37:44 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"olegpolo@mail.ru"}, "commit"=>"Update"}
+Completed 500 Internal Server Error in 81ms
+
+NameError (uninitialized constant Mailer::HOST):
+  app/models/mailer.rb:2:in `<class:Mailer>'
+  app/models/mailer.rb:1:in `<top (required)>'
+  app/models/user.rb:56:in `deliver_email_reset'
+  app/controllers/profiles_controller.rb:12:in `update'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:37:44 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-11 19:44:52 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (77.0ms)
+Completed 200 OK in 827ms (Views: 794.0ms | ActiveRecord: 33.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:45:03 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/profiles/1" for 127.0.0.1 at 2011-10-11 19:45:04 +0300
+  Processing by ProfilesController#show as HTML
+  Parameters: {"id"=>"1"}
+Rendered profiles/show.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 92ms (Views: 32.0ms | ActiveRecord: 8.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:45:04 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/profile/edit" for 127.0.0.1 at 2011-10-11 19:45:05 +0300
+  Processing by ProfilesController#edit as HTML
+Rendered profiles/edit.html.erb within layouts/application (47.0ms)
+Completed 200 OK in 96ms (Views: 65.0ms | ActiveRecord: 10.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:45:06 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:45:11 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"olegpolo@mail.ru"}, "commit"=>"Update"}
+Rendered mailer/email_reset.erb (1.0ms)
+
+Sent mail to olegpolo@mail.ru (3200ms)
+Rendered mailer/email_reset.erb (0.0ms)
+
+Sent mail to olegpolo@mail.ru (2589ms)
+Redirected to http://localhost:3000/
+Completed 302 Found in 7005ms
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-11 19:45:18 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:45:18 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started PUT "/profile" for 127.0.0.1 at 2011-10-11 19:48:18 +0300
+  Processing by ProfilesController#update as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "user"=>{"handle"=>"ohavryl", "email"=>"olegpolo@mail.ru"}, "commit"=>"Update"}
+Redirected to http://localhost:3000/
+Completed 302 Found in 1ms
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-11 19:48:18 +0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:48:18 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-11 19:48:20 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 24ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:48:20 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/session" for 127.0.0.1 at 2011-10-11 19:48:25 +0300
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "session"=>{"who"=>"ohavryl", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+Rendered mailer/email_reset.erb (0.0ms)
+
+Sent mail to olegpolo@mail.ru (2424ms)
+Redirected to http://localhost:3000/session/new
+Completed 302 Found in 2552ms
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-11 19:48:27 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:48:28 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-11 19:48:44 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 20ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:48:45 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started POST "/session" for 127.0.0.1 at 2011-10-11 19:48:47 +0300
+  Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"вњ“", "authenticity_token"=>"[FILTERED]", "session"=>{"who"=>"ohavryl", "password"=>"[FILTERED]"}, "commit"=>"Log in"}
+Rendered mailer/email_reset.erb (1.0ms)
+
+Sent mail to olegpolo@mail.ru (2572ms)
+Redirected to http://localhost:3000/session/new
+Completed 302 Found in 2699ms
+
+
+Started GET "/session/new" for 127.0.0.1 at 2011-10-11 19:48:49 +0300
+  Processing by SessionsController#new as HTML
+Rendered sessions/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-11 19:48:50 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/users/1/confirmation/new?encode=false&token=[FILTERED]" for 127.0.0.1 at 2011-10-11 19:49:25 +0300
+
+ActionController::RoutingError (uninitialized constant ConfirmationsController):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:49:25 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/users/1/confirmation/new?encode=false&token=[FILTERED]" for 127.0.0.1 at 2011-10-11 19:51:19 +0300
+
+LoadError (Expected D:/Project/Source/Worklex/app/controllers/confirmations_controller.rb to define ConfirmationsController):
+  app/controllers/confirmations_controller.rb:1:in `<top (required)>'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:51:20 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/users/1/confirmation/new?encode=false&token=[FILTERED]" for 127.0.0.1 at 2011-10-11 19:51:41 +0300
+
+LoadError (Expected D:/Project/Source/Worklex/app/controllers/confirmations_controller.rb to define ConfirmationsController):
+  app/controllers/confirmations_controller.rb:1:in `<top (required)>'
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2011-10-11 19:51:41 +0300
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+Compiled g.bar.js  (11ms)  (pid 6244)
+Compiled g.raphael.js  (34ms)  (pid 6244)
+Compiled gmaps4rails/gmaps4rails.base.js  (3062ms)  (pid 4412)
+Compiled gmaps4rails/gmaps4rails.bing.js  (796ms)  (pid 4412)
+Compiled gmaps4rails/gmaps4rails.googlemaps.js  (1277ms)  (pid 4412)
+Compiled gmaps4rails/gmaps4rails.mapquest.js  (710ms)  (pid 4412)
+Compiled gmaps4rails/gmaps4rails.openlayers.js  (1075ms)  (pid 4412)
+Compiled jquery.color.js  (33ms)  (pid 4412)
+Compiled jquery.easing.1.3.js  (81ms)  (pid 4412)
+Compiled jquery-ui.min.js  (63ms)  (pid 4412)
+Compiled jquery.min.js  (57ms)  (pid 4412)
+Compiled gmaps4rails/gmaps4rails.base.js  (2658ms)  (pid 8772)
+Compiled gmaps4rails/gmaps4rails.bing.js  (824ms)  (pid 8772)
+Compiled gmaps4rails/gmaps4rails.googlemaps.js  (1266ms)  (pid 8772)
+Compiled gmaps4rails/gmaps4rails.mapquest.js  (840ms)  (pid 8772)
+Compiled gmaps4rails/gmaps4rails.openlayers.js  (1206ms)  (pid 8772)
+Compiled jquery.color.js  (0ms)  (pid 8772)
+Compiled jquery.easing.1.3.js  (0ms)  (pid 8772)
+Compiled jquery-ui.min.js  (19ms)  (pid 8772)
+Compiled jquery.min.js  (5ms)  (pid 8772)
+Compiled application.js  (0ms)  (pid 8772)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-16 23:20:26 +0300
+  Processing by HomeController#index as HTML
+Redirected to http://localhost:3000/tasks
+Completed 302 Found in 140ms
+
+
+Started GET "/tasks" for 127.0.0.1 at 2011-10-16 23:20:39 +0300
+  Processing by TasksController#index as HTML
+Rendered tasks/_task.html.erb (1.0ms)
+Rendered tasks/index.html.erb within layouts/application (244.0ms)
+Compiled reset.css  (2ms)  (pid 5776)
+Compiled 960.css  (12ms)  (pid 5776)
+Compiled screen.css  (12ms)  (pid 5776)
+Compiled gmaps4rails.css  (2ms)  (pid 5776)
+Compiled ie7.css  (2ms)  (pid 5776)
+Compiled jquery.js  (3ms)  (pid 5776)
+Compiled jquery.easing.1.3  (0ms)  (pid 5776)
+Compiled jquery.color  (0ms)  (pid 5776)
+Compiled rails.js  (1ms)  (pid 5776)
+Compiled gmaps4rails/gmaps4rails.base  (3089ms)  (pid 5776)
+Compiled gmaps4rails/gmaps4rails.googlemaps  (1479ms)  (pid 5776)
+Compiled gmaps4rails/gmaps4rails.mapquest  (836ms)  (pid 5776)
+Compiled gmaps4rails/gmaps4rails.openlayers  (1244ms)  (pid 5776)
+Completed 200 OK in 42841ms (Views: 42767.4ms | ActiveRecord: 24.0ms)
+
+
+Started GET "/assets/screen-b749ca2e536045f49a27853461f966d1.css" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /screen-b749ca2e536045f49a27853461f966d1.css - 200 OK (0ms)
+
+
+Started GET "/assets/gmaps4rails-a9571bbe3ca9c1aec6c39d216d7ce6b7.css" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /gmaps4rails-a9571bbe3ca9c1aec6c39d216d7ce6b7.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (11ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/assets/gmaps4rails/gmaps4rails-b52b450a53a67c565ef71b64227be6cf.openlayers" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /gmaps4rails/gmaps4rails-b52b450a53a67c565ef71b64227be6cf.openlayers - 200 OK (0ms)
+
+
+Started GET "/assets/gmaps4rails/gmaps4rails-d81d31c47876e03174452aa46b0cbd40.mapquest" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /gmaps4rails/gmaps4rails-d81d31c47876e03174452aa46b0cbd40.mapquest - 200 OK (1ms)
+
+
+Started GET "/assets/gmaps4rails/gmaps4rails-72a0cccbeb26068b4460263c73c8234a.googlemaps" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /gmaps4rails/gmaps4rails-72a0cccbeb26068b4460263c73c8234a.googlemaps - 200 OK (0ms)
+
+
+Started GET "/assets/gmaps4rails/gmaps4rails-f2d3e8991db8e1e603e3b9200a4bc8b4.base" for 127.0.0.1 at 2011-10-16 23:21:22 +0300
+Served asset /gmaps4rails/gmaps4rails-f2d3e8991db8e1e603e3b9200a4bc8b4.base - 200 OK (18ms)
+
+
+Started GET "/tasks/2" for 127.0.0.1 at 2011-10-16 23:21:39 +0300
+  Processing by TasksController#show as HTML
+  Parameters: {"id"=>"2"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/gmaps4rails-1.3.0/app/views/gmaps4rails/_gmaps4rails.html.erb (2.0ms)
+Rendered tasks/show.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 134ms (Views: 79.0ms | ActiveRecord: 17.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-16 23:21:39 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-10-16 23:21:43 +0300
+  Processing by HomeController#index as HTML
+Redirected to http://localhost:3000/tasks
+Completed 302 Found in 38ms
+
+
+Started GET "/tasks" for 127.0.0.1 at 2011-10-16 23:21:43 +0300
+  Processing by TasksController#index as HTML
+Rendered tasks/_task.html.erb (10.0ms)
+Rendered tasks/index.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 96ms (Views: 41.0ms | ActiveRecord: 15.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-16 23:21:44 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)
+
+
+Started GET "/tasks" for 127.0.0.1 at 2011-10-16 23:21:44 +0300
+  Processing by TasksController#index as HTML
+Rendered tasks/_task.html.erb (10.0ms)
+Rendered tasks/index.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 96ms (Views: 42.0ms | ActiveRecord: 12.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-16 23:21:45 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (0ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/tasks/2" for 127.0.0.1 at 2011-10-16 23:21:46 +0300
+  Processing by TasksController#show as HTML
+  Parameters: {"id"=>"2"}
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/gmaps4rails-1.3.0/app/views/gmaps4rails/_gmaps4rails.html.erb (0.0ms)
+Rendered tasks/show.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 88ms (Views: 40.0ms | ActiveRecord: 9.0ms)
+
+
+Started GET "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3" for 127.0.0.1 at 2011-10-16 23:21:46 +0300
+Served asset /jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3 - 404 Not Found (1ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/jquery.easing.1-40e9c2cfef16f42d31531fc2c52ed931.3"):
+  
+
+Rendered C:/Ruby/lib/ruby/gems/1.9.1/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.0ms)

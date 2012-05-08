@@ -1,0 +1,27 @@
+<% @title = "Edit Profile" %>
+
+<%= form_for current_user, :url => {:controller => 'profiles', :action => 'update'} do |form| %>
+
+  <div class="avatar_field">
+    <%= form.label :avatar, 'Avatar' %>
+    <%= gravatar(60) %>
+    <%= link_to 'Change', 'http://www.gravatar.com' %>
+  </div>
+
+  <div class="text_field">
+    <%= form.label :handle, 'Handle' %>
+    <%= form.text_field :handle, :size => 25 %>
+  </div>
+
+  <div class="text_field">
+    <%= form.label :email, 'Email Address' %>
+    <%= form.text_field :email, :size => 25 %>
+  </div>
+
+  <%= link_to "Reset password?", new_password_url %>
+
+  <div class="form_bottom">
+    <%= form.submit "Update", :disable_with => "Please wait..." %>
+  </div>
+
+<% end %>

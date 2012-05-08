@@ -1,0 +1,18 @@
+<% @title = "Search" %>
+<%= form_tag search_task_path, :method => :get do %>
+
+    <%= label_tag :text, 'Filter' %>
+    <%= text_field_tag :text, params[:text] %>
+
+<% end %>
+<% unless @tasks.nil? %>
+  <p class="entries">
+    <%= page_entries_info @tasks, :entry_name => 'task', :plural_name => 'tasks'%>
+  </p>
+  <div class="gems border">
+    <ol>
+      <%= render @tasks %>
+    </ol>
+  </div>
+  <%= will_paginate @tasks %>
+<% end %>

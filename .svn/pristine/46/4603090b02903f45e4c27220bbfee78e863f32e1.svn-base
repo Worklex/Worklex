@@ -1,0 +1,15 @@
+<% @title = "Tasks" %>
+<p class="entries">
+  <%= page_entries_info @tasks, :entry_name => 'task', :plural_name => 'tasks'%>
+</p>
+<div class="gems border">
+  <ol>
+    <%= render @tasks %>
+  </ol>
+</div>
+<%= will_paginate @tasks %>
+<p>
+<%= button_to "New Task", new_task_path, :method => "get" %>
+<%= button_to "Search", search_task_path, :method => "get" %>
+</p>
+

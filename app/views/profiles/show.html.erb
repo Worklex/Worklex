@@ -1,0 +1,10 @@
+<% @title = "Profile" %>
+
+<p>
+<%= gravatar(64, "profile_gravatar", @user) %>
+<%= link_to @user.display_handle, profile_path(@user.display_id) %>
+<%= mail_to @user.email, "(email)", :encode => "hex" %>
+</p>
+<% if @user == current_user %>
+  <p><%= button_to "Edit Profile", edit_profile_path, :method => "get" %></p>
+<% end %>
